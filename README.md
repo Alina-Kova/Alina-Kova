@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there 👋 I'm Alina Kotikova
 
-<!--
-**Alina-Kova/Alina-Kova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am BI-developer and Data analyst 👩🏼‍💻
+--------------------------------------
 
-Here are some ideas to get you started:
+* 🔭 I’m currently working in First Bit - Russian software development and integration company with headquaters in other 8 countries
+* 🏨 I am a BI-developer with significant experience in the hospitality industry
+* 🎯 Aiming for continuous growth in the field of data analytics and AI in data analysis and seeking new opportunities to develop my skills
+* 📫 How to reach me:
+    1. Telegram: @alina_vayner
+    2. Email: alinakova1992@gmail.com
+    3. LinkedIn: linkedin.com/in/alinakotikova/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and tools:
+![Python]([(https://img.icons8.com/color/512/python.png) "Python")
+
