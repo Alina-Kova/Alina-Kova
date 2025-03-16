@@ -12,5 +12,5 @@
     3. LinkedIn: linkedin.com/in/alinakotikova/
 
 ## Languages and tools:
-![Python]([(https://img.icons8.com/color/512/python.png) "Python")
+![Python]([//img.icons8.com/color/512/python.png "Python")
 
