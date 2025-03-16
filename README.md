@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Alina Kotikova
+## Hi there 👋 I'm Alina Kotikova
 
-## I am BI-developer and Data analyst 👩🏼‍💻
+### I am BI-developer and Data analyst 👩🏼‍💻
 --------------------------------------
 
 * 🔭 I’m currently working in First Bit - Russian software development and integration company with headquaters in other 8 countries
@@ -11,7 +11,7 @@
     - *Email*: alinakova1992@gmail.com
     - *LinkedIn*: linkedin.com/in/alinakotikova/
 
-## Languages and tools:
+### Languages and tools:
 - **Python**
 - **SQL**
 - **DBeaver**
