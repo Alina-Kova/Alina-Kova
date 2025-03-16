@@ -23,5 +23,7 @@
 - **MS Visual Studio**
 - **Docker**
 - **Apache Airflow**
+- **HTML**
+- **CSS**
 
 
