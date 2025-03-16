@@ -8,7 +8,7 @@
 * 🎯 Aiming for continuous growth in the field of data analytics and AI in data analysis and seeking new opportunities to develop my skills
 * 📫 How to reach me:
     - *Telegram*: @alina_vayner
-    - *Email*: alinakova1992@gmail.com
+    - *Email*: malinavayner@yandex.ru
     - *LinkedIn*: linkedin.com/in/alinakotikova/
 
 ### Languages and tools:
