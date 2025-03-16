@@ -12,5 +12,7 @@
     3. LinkedIn: linkedin.com/in/alinakotikova/
 
 ## Languages and tools:
-![Python](//www.google.com/url?sa=i&url=https%3A%2F%2Ficons8.ru%2Ficons%2Fset%2Fpython&psig=AOvVaw1OXco9r61zIp8uug3zQLJk&ust=1742229746085000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLiwiOGFj4wDFQAAAAAdAAAAABAE "Python")
+![Python](https://github.com/user-attachments/assets/3c522eaa-5a40-4869-a825-d565e51149e8)
+
+
 
