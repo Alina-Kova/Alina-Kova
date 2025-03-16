@@ -12,8 +12,16 @@
     3. LinkedIn: linkedin.com/in/alinakotikova/
 
 ## Languages and tools:
-![Python](https://github.com/150x100/user-attachments/assets/3c522eaa-5a40-4869-a825-d565e51149e8) ![DBeaver](https://github.com/150x100/user-attachments/assets/30730759-0442-4299-a2f2-9207a45efd8f)
-
-
+- **Python**
+- **SQL**
+- **DBeaver**
+- **Excel**
+- **Tableau**
+- **PIX BI**
+- **Jupyter Notebook**
+- **Google Collab**
+- **MS Visual Studio**
+- **Docker**
+- **Apache Airflow**
 
 
